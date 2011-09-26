@@ -5,7 +5,7 @@
     version: 0.1
     author: Norman Khine
     date: Mon Sep 26 09:19:41 CEST 2011
-    location: ['https://github.com/nkhine/proposals/blob/master/anarchically-scaleable-information-system.md', ]
+    location: ['https://github.com/nkhine/proposals/blob/master/anarchically-scaleable-information-system.md', 'http://atrium.zmdev.net/globalwebdevelopment/node/341']
     --
 
 ## abstract;lang=en:Abstract
